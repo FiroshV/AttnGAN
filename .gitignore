@@ -1,0 +1,5 @@
+backup
+code/*.pyc
+code/miscc/*.pyc
+.DS_Store
+.idea/
